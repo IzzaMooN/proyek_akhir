@@ -1,6 +1,6 @@
-# Izz Collection Dashboard ✨
+# Tazkiya Collection Dashboard ✨
 
-## Setup environment
+## Setup environment for project
 ```
 conda create --name main-ds python=3.9
 conda activate main-ds
